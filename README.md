@@ -6,15 +6,15 @@ Intel Core i5-8200Y
 128GB Sandisk DA eMMC Drive
 
 ** Currently Working **
-Internal Storage
-Bluetooth and Wifi
-Screen Backlight
-All USB Ports
+Internal Storage,
+Bluetooth and Wifi,
+Screen Backlight,
+All USB Ports,
 
 ** Currently Not Working **
-Built-In ELAN Trackpad - Tried many options and can't seem to get it to work at the moment
-feel free to update the EFI if you find a solution
+Built-In ELAN Trackpad - Tried many options and can't seem to get it to work at the moment.
+Feel free to update the EFI if you find a solution.
 
-Backlight on the Keyboard
+Also Backlight on the Keyboard currently not working.
 
 
