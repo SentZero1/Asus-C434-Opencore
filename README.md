@@ -1,18 +1,18 @@
-# Asus-C434-Opencore
+# **Asus-C434-Opencore**
 
-Chromebook running macOS Monterey with Internal eMMC Device
+**Chromebook running macOS Monterey with Internal eMMC Device**
 
 ```Intel Core i5-8200Y```
 ```8GB Ram DDR3```
 ```128GB Sandisk DA eMMC Drive```
 
-** Currently Working **
+**Currently Working**
 ```Internal Storage```
 ```Bluetooth and Wifi```
 ```Screen Backlight```
 ```All USB Ports```
 
-** Currently Not Working **
+**Currently Not Working**
 ```Built-In ELAN Trackpad - Tried many options and can't seem to get it to work at the moment.```
 ```Feel free to update the EFI if you find a solution.```
 
